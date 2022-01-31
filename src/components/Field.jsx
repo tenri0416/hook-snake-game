@@ -1,13 +1,12 @@
-import React from "react";
+import React from 'react';
 
-export const Field = ({ fields }) => {
+const Field = ({ fields }) => {
   return (
     <div className="field">
       {
         fields.map((row) => {
           return row.map((column) => {
-            return <div className={`dots ${column}`}>
-            </div>
+            return <div className={`dots ${column}`}></div>
           })
         })
       }
@@ -15,4 +14,4 @@ export const Field = ({ fields }) => {
   );
 };
 
-
+export default Field
