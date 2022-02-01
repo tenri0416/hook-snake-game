@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenri0416/hook-snake-game/static/css/main.8fe34750.css",
+    "main.js": "/tenri0416/hook-snake-game/static/js/main.bff68ed1.js",
+    "static/js/787.d7f42b47.chunk.js": "/tenri0416/hook-snake-game/static/js/787.d7f42b47.chunk.js",
+    "index.html": "/tenri0416/hook-snake-game/index.html",
+    "main.8fe34750.css.map": "/tenri0416/hook-snake-game/static/css/main.8fe34750.css.map",
+    "main.bff68ed1.js.map": "/tenri0416/hook-snake-game/static/js/main.bff68ed1.js.map",
+    "787.d7f42b47.chunk.js.map": "/tenri0416/hook-snake-game/static/js/787.d7f42b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe34750.css",
+    "static/js/main.bff68ed1.js"
+  ]
+}
